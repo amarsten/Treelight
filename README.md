@@ -1,0 +1,1 @@
+Treelight is a randomized composition made for the Tree of Light Project (https://vimeo.com/120197076). It uses the music programming language ChucK to initialize multiple oscillator "voices" which then switch between a random melody and chords based on OSC messages recieved from a touch sensor.
